@@ -1,0 +1,3 @@
+com\cts\employeeapp\service\EmployeeServiceImplTest.class
+com\cts\employeeapp\api\EmployeeApiTest.class
+com\cts\employeeapp\EmployeeAppApplicationTests.class
